@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "938172594255",
+    "firebase_url": "https://uts-ardian.firebaseio.com",
+    "project_id": "uts-ardian",
+    "storage_bucket": "uts-ardian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938172594255:android:8877a44b9725320b41523a",
+        "android_client_info": {
+          "package_name": "com.example.uts_amub_ti7a_1711500018_ardian"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938172594255-t2bs2ltjpu9fk0pke1ecqs4n6mvqucuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm3fToN55KmecZpik5RTmpZguj0mm495k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938172594255-t2bs2ltjpu9fk0pke1ecqs4n6mvqucuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
